@@ -14,12 +14,12 @@ I was sent here on an earthly investigation by the secret alien association 935.
 
 #
 
-1.I LOVE fries
-2.I LOVE fallout 4
-3.I LOVE Deacon and Nick Valentine.
+* I LOVE fries
+* I LOVE fallout 4
+* I LOVE Deacon and Nick Valentine.
 
 #
 
-1.Workouts
-2.Army
-3.Secret agent from 935 but nobody knows...
+* Workouts
+* Army
+* Secret agent from 935 but nobody knows...
